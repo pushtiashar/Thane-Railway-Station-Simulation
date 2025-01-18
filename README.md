@@ -10,8 +10,7 @@ This project involves simulating the operations at Thane Railway Station using *
 
 ## Data  
 - The train schedule was sourced from the **official timetable**, which remains consistent for all weekdays.  
-- This ensured an accurate representation of real-world operations for reliable analysis.  
-
+ Both the **database** and the **AnyLogic `.alp` file** used for this project are included in the repository for replication and further analysis.  
 ## Highlights  
 - Built an animated simulation model using the **AnyLogic Rail Library**, showcasing real-time train movements and schedules.  
 - Conducted a detailed study of **platform efficiency and delay propagation**, providing actionable insights into train scheduling.  
@@ -19,7 +18,7 @@ This project involves simulating the operations at Thane Railway Station using *
 ## Team and Guidance  
 - **Course Project**: Simulation Modeling & Analysis (January '24 - April '24)  
 - **Guide**: Prof. Jayendran Venkateswaran, Department of IEOR, IIT Bombay  
-- Collaborated as a team of three with Kimya Nehra and Rutuja Khadekar.
+- Collaborated as a team of three with Kimya Nehra and Rutuja Khandekar.
 
 ---  
 
